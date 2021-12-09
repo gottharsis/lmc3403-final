@@ -6,4 +6,4 @@
 - Heejoo Jin
 
 ## URL
-This website can be viewed [here](gottharsis.github.io/lmc3403-final)
+This website can be viewed [here](http://gottharsis.github.io/lmc3403-final)
