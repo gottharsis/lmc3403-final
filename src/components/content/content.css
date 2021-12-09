@@ -1,0 +1,7 @@
+#header-section {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4) ), url(../../assets/proctor-creek.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    color: white;
+}
