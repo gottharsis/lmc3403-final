@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/lmc3403-final/static/css/main.2c1b3e15.chunk.css",
+    "main.js": "/lmc3403-final/static/js/main.84259d11.chunk.js",
+    "main.js.map": "/lmc3403-final/static/js/main.84259d11.chunk.js.map",
+    "runtime-main.js": "/lmc3403-final/static/js/runtime-main.721b6db4.js",
+    "runtime-main.js.map": "/lmc3403-final/static/js/runtime-main.721b6db4.js.map",
+    "static/css/2.061dbb34.chunk.css": "/lmc3403-final/static/css/2.061dbb34.chunk.css",
+    "static/js/2.b10570ea.chunk.js": "/lmc3403-final/static/js/2.b10570ea.chunk.js",
+    "static/js/2.b10570ea.chunk.js.map": "/lmc3403-final/static/js/2.b10570ea.chunk.js.map",
+    "static/js/3.7f84a974.chunk.js": "/lmc3403-final/static/js/3.7f84a974.chunk.js",
+    "static/js/3.7f84a974.chunk.js.map": "/lmc3403-final/static/js/3.7f84a974.chunk.js.map",
+    "index.html": "/lmc3403-final/index.html",
+    "static/css/2.061dbb34.chunk.css.map": "/lmc3403-final/static/css/2.061dbb34.chunk.css.map",
+    "static/css/main.2c1b3e15.chunk.css.map": "/lmc3403-final/static/css/main.2c1b3e15.chunk.css.map",
+    "static/js/2.b10570ea.chunk.js.LICENSE.txt": "/lmc3403-final/static/js/2.b10570ea.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/lmc3403-final/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/logo-large.b3be14d4.png": "/lmc3403-final/static/media/logo-large.b3be14d4.png",
+    "static/media/content.css": "/lmc3403-final/static/media/proctor-creek.f1d8c632.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.721b6db4.js",
+    "static/css/2.061dbb34.chunk.css",
+    "static/js/2.b10570ea.chunk.js",
+    "static/css/main.2c1b3e15.chunk.css",
+    "static/js/main.84259d11.chunk.js"
+  ]
+}
